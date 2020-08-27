@@ -1,0 +1,70 @@
+body{
+	background-color: white !important;
+}
+nav{
+	height: 100px !important;
+	background-color: #00b3b3 !important;
+
+}
+
+#aw li, a{
+	color:white;
+}
+.menu-header .dropdown-content {
+	margin-top: 63px !important;
+}
+	.menu-header .dropdown-content{
+		width: 200px !important;
+		background-color: #ecf0f1 !important;
+	}
+#lol footer{
+	background-color: blue !important;	
+}
+.page-footer{
+	background-color: #00b3b3 !important;
+
+}
+.tabs{
+	margin-top: 20px !important; 
+}
+.waves-effect{
+	color: white !important;
+	background-color: darkgreen !important;	
+}
+.collection{
+	background-color: #ecf0f1 !important;
+}
+h5,h4{
+	color: black !important;
+}
+.slider{
+	margin-top: 3px !important;
+}
+
+.wrap-copy{
+	margin: auto;
+	width: max-content;
+}
+
+.icons-wrap{
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+	width: max-content;
+}
+
+.bg-icons{
+	text-decoration: none;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+.fa{
+	position: relative;
+	left: 3px;
+}
